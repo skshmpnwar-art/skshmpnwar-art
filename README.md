@@ -9,7 +9,7 @@ I have recently developed a peculiar interest in both hardware and software deve
 * 🌍  I'm based in India, Delhi
 * ✉️  You can contact me at [saksham.panwar.ug25@nsut.ac.in](mailto:saksham.panwar.ug25@nsut.ac.in)
 * 🧠  I'm currently learning Python and Hardware and Robotics
-* 💬  Ask me about Dreamt of being batman...... left being peter parker (without powers)😒
+* 💬  Dreamt of being batman...... left being peter parker (without powers)😒
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
