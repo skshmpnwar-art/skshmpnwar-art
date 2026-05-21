@@ -11,7 +11,7 @@ I am currently diving headfirst into the worlds of hardware tinkering and softwa
 
 Hardware: Getting my hands dirty with Arduino! Currently building a quiz buzzer system and a Bluetooth-controlled car.
 
-Software: Leveling up in Python and crafting interactive web projects using HTML and CSS.
+Software: Leveling up in Python and crafting interactive web projects using Python.
 
 🚀 My Ultimate Tech Goals:
 
