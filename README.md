@@ -4,7 +4,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical Engineering Student at Netaji Subhas University of Technology
 ------------------------------------------------------------------------
 
-I have recently developed a peculiar interest in both hardware and software development. As much so that i have started working on a quiz buzzer system and a bluetooth controlled car both using arduino as their brain. Both of them are very basic projects that i have started up with to enter this field. Dream is to make a cyber deck or a diy digital camers. Side by side i have also started learning python. Dream about making those hand following sword and drones as well as make that hand motion registering project. Aside from this I am a National Level Swimmer, big into debating and also love reading novels. Movies and series are a second hobby to me.
+Hi there, I'm a first-year B.Tech student and developer! 👋
+I am currently diving headfirst into the worlds of hardware tinkering and software development. I love blending code with physical components and am actively building my foundation in both domains.
+
+🛠️ What I'm Working On:
+
+Hardware: Getting my hands dirty with Arduino! Currently building a quiz buzzer system and a Bluetooth-controlled car.
+
+Software: Leveling up in Python and crafting interactive web projects using HTML and CSS.
+
+🚀 My Ultimate Tech Goals:
+
+Hardware Dreams: Designing and building a custom cyberdeck and engineering a DIY digital camera from scratch.
+
+Software Dreams: Mastering computer vision to create hand-motion registering systems, hand-following swords, and gesture-controlled drones.
+
+🌍 Beyond the Screen:
+
+🏊‍♂️ National Level Swimmer: Always chasing the next personal best in the pool.
+
+🎙️ Debater & Strategist: Passionate about high-level geopolitics, frequently participating in MUNs and high-stakes crisis committees.
+
+📚 Avid Reader: I spend my downtime devouring novels, especially psychological suspense and dark romance.
+
+🎬 Cinephile: Movies and series are my favorite secondary hobby, with a soft spot for classic romantic cinema.
+
+Feel free to explore my repositories or reach out if you want to chat about hardware, Python, or the latest book you couldn't put down!
 
 * 🌍  I'm based in India, Delhi
 * ✉️  You can contact me at [saksham.panwar.ug25@nsut.ac.in](mailto:saksham.panwar.ug25@nsut.ac.in)
