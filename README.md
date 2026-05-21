@@ -24,7 +24,7 @@ Software Dreams: Mastering computer vision to create hand-motion registering sys
 
 🎬 Cinephile: Movies and series are my favorite secondary hobby, with a soft spot for classic romantic cinema.
 
-Feel free to explore my repositories or reach out if you want to chat about hardware, Python, or the latest book you couldn't put down!<h3 align="center">A passionate frontend developer from India</h3>
+Feel free to explore my repositories or reach out if you want to chat about hardware, Python, or the latest book you couldn't put down!<h3 align="center">
 
 - 📫 How to reach me **skshmpnwar@gmail.com**
 
